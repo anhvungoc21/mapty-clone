@@ -1,8 +1,13 @@
 # Mapty Clone
 
-A project built following tutorials in the Udemy Complete JavaScript Course 2022 by Jonas Schmedtmann.
+A web app for recording personal exercises 
+Project built following tutorials in the Udemy Complete JavaScript Course 2022 by Jonas Schmedtmann.
 
-## Added features
+## Features
+_Features that are already present in the original tutorial_
+- Automatically generate map based on current location
+- Create exercise (running & cycling) entries & map pins with details such as distance, time, etc.
 
-- CRUD (Create, Read, Update, Delete) functionality for exercise entries
-- More aesthetic help and alert messages
+## Further added features
+- Added delete and delete all functionalities for entries
+- Improved aesthetics for help and alert messages

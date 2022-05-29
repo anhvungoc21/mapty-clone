@@ -1,7 +1,8 @@
 # Mapty Clone
 
-A web app for recording personal exercises 
-Project built following tutorials in the Udemy Complete JavaScript Course 2022 by Jonas Schmedtmann.
+A web app for recording personal exercises.
+
+_Project built following tutorials in the Udemy Complete JavaScript Course 2022 by Jonas Schmedtmann._
 
 ## Features
 _Features that are already present in the original tutorial_
